@@ -5,7 +5,7 @@ import { MenuIcon } from 'lucide-react';
 import Image from 'next/image';
 export const metadata: Metadata = {
   title: 'الصفحة الرسمية - Official page',
-  description: 'البوابه الرسمية',
+  description: ' ',
 };
 
 export default function RootLayout({
