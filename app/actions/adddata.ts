@@ -2,16 +2,13 @@ import { initializeApp } from "firebase/app";
 import { doc, getFirestore, setDoc } from "firebase/firestore";
 
 const firebaseConfig = {
-    // Your Firebase configuration object goes here
-    // You should replace this with your actual Firebase config
- // Your Firebase configuration object goes here
- apiKey: "AIzaSyAdE8-9VwRjiqbKSImyUPu3hugol5jEMWA",
- authDomain: "ssdd-21562.firebaseapp.com",
- projectId: "ssdd-21562",
- storageBucket: "ssdd-21562.firebasestorage.app",
- messagingSenderId: "884523274527",
- appId: "1:884523274527:web:96d8f5c87cc5bfbe3a602a",
- measurementId: "G-0DPHLEMEBZ"
+  apiKey: "AIzaSyAtao5yn3yKnQk09yfW7DLD9k4Fk_umdHY",
+  authDomain: "sasasas-7fa2b.firebaseapp.com",
+  projectId: "sasasas-7fa2b",
+  storageBucket: "sasasas-7fa2b.firebasestorage.app",
+  messagingSenderId: "677535894583",
+  appId: "1:677535894583:web:02178b3061e21d92da43b2",
+  measurementId: "G-ZEYXJ20D6D"
   }
   
   const app = initializeApp(firebaseConfig)
